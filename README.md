@@ -1,4 +1,4 @@
-# Autodidacts CS-Gun Learning Path
+# Comp-Sci for Autodidacts and Lunatics
 
 Stop grinding LeetCode. Start grinding useful shit. 
 
