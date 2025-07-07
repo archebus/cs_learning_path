@@ -1,24 +1,26 @@
 # Autodidacts CS-Gun Learning Path
 
-> Stop grinding LeetCode. Start grinding useful shit. 
-> 
-> This isn’t a “get a dev job in 3 weeks” course. It’s a full-send into the raw, unfiltered insanity of Computer Science. 
-> 
-> **Is this learning path easy?** No.
-> 
-> **Who is this for?** Geeks and Nerds who want to legitimately understand how computers function at multiple levels of abstraction.
-> 
-> **Is it free?** Kind of? Depends on your personal morality. I'll leave it at that.
-> 
-> **Isn't this just a bunch of other learning resources strung together?** Yes.
-> 
-> **What about Frontend?** Google the The Odin Project
-> 
-> **Is the mathematics optional?** No. *(Maths is foundational, I thought I could skip it. But the deeper I got in the low levels the more I needed solid mathematics. That being said I don't control you.).*
-> 
-> **Why did you make this?** I didn't want to go to uni, but I wanted to learn "*everything*". Everything was too big, so I needed a plan. This was my plan, it's since been slightly modified for public consumption as I had specific weaknesses to fill so the course was initially tailored to myself.
-> 
-> **Where do I get book x?** You buy them. Books make you look smart. Put them on a shelf and impress your friends. Otherwise see "is this course free".
+Stop grinding LeetCode. Start grinding useful shit. 
+
+This isn’t a “get a dev job in 3 weeks” course. It’s a full-send into the raw, unfiltered insanity of Computer Science. 
+
+**Is this learning path easy?** No.
+
+**Who is this for?** Geeks and Nerds who want to legitimately understand how computers function at multiple levels of abstraction.
+
+**Is it free?** Kind of? Depends on your personal morality. I'll leave it at that.
+
+**Isn't this just a bunch of other learning resources strung together?** Yes.
+
+**What about Frontend?** Google the The Odin Project
+
+**Is the mathematics optional?** No. *(Maths is foundational, I thought I could skip it. But the deeper I got in the low levels the more I needed solid mathematics. That being said I don't control you.).*
+
+**Why did you make this?** I didn't want to go to uni, but I wanted to learn "*everything*". Everything was too big, so I needed a plan. This was my plan, it's since been slightly modified for public consumption as I had specific weaknesses to fill so the course was initially tailored to myself.
+
+**Where do I get book x?** You buy them. Books make you look smart. Put them on a shelf and impress your friends. Otherwise see "is this course free".
+
+---
 
 ## How to Use This Guide
 **🔹 Blue Diamonds** = Core curriculum. Generally advised to NOT SKIP this context. 
