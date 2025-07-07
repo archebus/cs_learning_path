@@ -1,12 +1,10 @@
 # Comp-Sci for Autodidacts and Lunatics
 
-Stop grinding LeetCode. Start grinding useful shit. 
-
-This isn’t a “get a dev job in 3 weeks” course. It’s a full-send into the raw, unfiltered insanity of Computer Science. 
+DISCLAIMER: This isn’t a “get a dev job in 3 weeks” course. It’s full-send into a rabbit hole of comp-sci obsession. Stop grinding LeetCode. Start reading man pages, running arch, and home labbing until your savings are in the red.
 
 * **Is this learning path easy?** No.
-* **Who is this for?** Geeks and Nerds who want to legitimately understand how computers function at multiple levels of abstraction.
-* **Is it free?** Most resources are free or can be found if you're resourceful. Use your best judgment.
+* **Who is this for?** People who can't study at university, but still want to learn. People who need structure. Geeks and Nerds who want to peel back the layers of abstraction and understand what's really going on.
+* **Is it free?** Most resources are free or can be found if you're _resourceful_. Use your best judgment.
 * **Isn't this just a bunch of other learning resources strung together?** Yes.
 * **Is the mathematics optional?** No. *(Maths is foundational, I thought I could skip it. But the deeper I got in the low levels the more I needed solid mathematics. That being said I don't control you.).*
 * **Why did you make this?** I am not able to study at university, but still wanted to learn "*everything*". Everything turned out to be too big, so I needed a plan. Below is the plan I came up with, and then I modified it slightly to make it fit for public consumption.
