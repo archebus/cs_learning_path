@@ -34,7 +34,7 @@ AI is a tool that amplifies the baseline desire of the user interacting with it.
 
 But when an engaged learner interacts with an LLM it just amplifies the ability for that user to ask highly critical and directed questions about a topic. Or to act as a springboard to validate ideas.
 
-**Get good a prompting.** Proper use of AI massively accelerate your rate of learning. Just don't ask it to "solve" the problem you are facing => Don't outsource your thinking.
+**Get good at prompting.** Proper use of AI massively accelerate your rate of learning. Just don't ask it to "solve" the problem you are facing => **Don't outsource your thinking.**
 
 Example: 
 'What are the edge cases in my shell implementation?' 
