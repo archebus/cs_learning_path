@@ -6,7 +6,7 @@ DISCLAIMER: This isn’t a “get a dev job in 3 weeks” course. It’s full-se
 * **Who is this for?** People who can't study at university, but still want to learn. People who need structure. Geeks and Nerds who want to peel back the layers of abstraction and understand what's really going on.
 * **Is it free?** Most resources are free or can be found if you're _resourceful_. Use your best judgment.
 * **Isn't this just a bunch of other learning resources strung together?** Yes.
-* **Is the mathematics optional?** No. *(Maths is foundational, I thought I could skip it. But the deeper I got in the low levels the more I needed solid mathematics. That being said I don't control you.).*
+* **Is the mathematics optional?** No. *(Maths is foundational, I thought I could skip it. Turns out I couldn't if I wanted to learn everything.)*
 * **Why did you make this?** I am not able to study at university, but still wanted to learn "*everything*". Everything turned out to be too big, so I needed a plan. Below is the plan I came up with, and then I modified it slightly to make it fit for public consumption.
 * **Where do I get book x?** You buy them. Books make you look smart. Put them on a shelf and impress your friends. Otherwise see "is this course free".
 
