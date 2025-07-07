@@ -106,9 +106,6 @@ VS
 - [ ] 🔸 "High Performance Browser Networking" - Ilya Grigorik
 - [ ] 🔸 "Designing Web APIs" - Brenda Jin, Saurabh Sahni, Amir Shevat
 - [ ] 🔸 Modern CSS architecture (CSS Grid, Flexbox, CSS-in-JS)
-- [ ] 🔸 Progressive Web Apps and Service Workers
-- [ ] 🔸 WebAssembly fundamentals
-- [ ] 🔸 Web performance optimization and monitoring
 
 ---
 
