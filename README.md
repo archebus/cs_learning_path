@@ -51,7 +51,7 @@ VS
 ### Computer Science Fundamentals Track
 **Start Here:**
 - [ ] 🔹 CS50 (Harvard)
-    - [ ] 🔹 Project: Re-implement all key projects in C or Rust
+    - [ ] 🔹 Project: CS50 comes with plenty of projects. Do them.
 - [ ] 🔹 "The C Programming Language" - Kernighan & Ritchie
     - [ ] 🔹 Project: Complete all book exercises
     - [ ] 🔹 Project: Build CLI tools (calculator, text editor, file utilities)
