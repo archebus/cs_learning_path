@@ -16,8 +16,8 @@ This isn’t a “get a dev job in 3 weeks” course. It’s a full-send into th
 ---
 
 ## How to Use This Guide
-**🔹 Blue Diamonds** = Core curriculum. Generally advised to NOT SKIP this context. 
-**🔸 Orange Diamonds** = Supplementary materials. Do you want *moar*? Then do these as well.
+* **🔹 Blue Diamonds** = Core curriculum. Generally advised to NOT SKIP this context.
+* **🔸 Orange Diamonds** = Supplementary materials. Do you want *moar*? Then do these as well.
 
 **Learning Approach:**
 - Progress through courses sequentially, but feel free to explore supplementary materials as interests arise. This course is meant to cover everything, and I wanted to suggest (in my opinion) the GOLD STANDARD for resources.
