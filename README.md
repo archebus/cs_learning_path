@@ -1,6 +1,6 @@
 # Comp-Sci for Autodidacts and Lunatics
 
-DISCLAIMER: This isn’t a “get a dev job in 3 weeks” course. It’s full-send into a rabbit hole of comp-sci obsession. Stop grinding LeetCode. Start reading man pages, running arch, and home labbing until your savings are in the red.
+DISCLAIMER: This isn’t a “get a dev job in 3 weeks” course. It’s full-send into a rabbit hole of comp-sci obsession.
 
 * **Is this learning path easy?** No.
 * **Who is this for?** People who can't study at university, but still want to learn. People who need structure. Geeks and Nerds who want to peel back the layers of abstraction and understand what's really going on.
