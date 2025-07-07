@@ -92,8 +92,27 @@ VS
     - [ ] 🔹 Project: Build a blog or forum with CRUD operations and indexing
 
 ---
+##  Course 3: Web Development & Modern Programming
 
-## Course 3: Networking & Discrete Mathematics
+### Web Development Track
+**Start Here:**
+- [ ] 🔹 The Odin Project: Full Course, React Path.
+    - [ ] 🔹 Project: Build a full-stack social media platform.
+- [ ] 🔹 "You Don't Know JS" (book series) - Kyle Simpson
+    - [ ] 🔹  Project: Complete all exercises.
+     
+**Supplementary:**
+- [ ] 🔸 "HTTP: The Definitive Guide" - David Gourley & Brian Totty
+- [ ] 🔸 "High Performance Browser Networking" - Ilya Grigorik
+- [ ] 🔸 "Designing Web APIs" - Brenda Jin, Saurabh Sahni, Amir Shevat
+- [ ] 🔸 Modern CSS architecture (CSS Grid, Flexbox, CSS-in-JS)
+- [ ] 🔸 Progressive Web Apps and Service Workers
+- [ ] 🔸 WebAssembly fundamentals
+- [ ] 🔸 Web performance optimization and monitoring
+
+---
+
+## Course 4: Networking & Discrete Mathematics
 
 ### Discrete Mathematics Track
 **Start Here:**
@@ -121,7 +140,7 @@ VS
 
 ---
 
-## Course 4: Algorithms & Systems Architecture
+## Course 5: Algorithms & Systems Architecture
 
 ### Algorithms & Theory Track
 
@@ -150,6 +169,7 @@ VS
 - [ ] 🔸 "Digital Design and Computer Architecture"
 
 ---
+
 ## Specialization Tracks
 > Choose one or more areas for deep specialization after completing the core curriculum.
 
