@@ -6,7 +6,7 @@ This isn’t a “get a dev job in 3 weeks” course. It’s a full-send into th
 
 * **Is this learning path easy?** No.
 * **Who is this for?** Geeks and Nerds who want to legitimately understand how computers function at multiple levels of abstraction.
-* **Is it free?** Kind of? Depends on your personal morality. Also many books are available on LibGen or through uni repositories. Google.
+* **Is it free?** Most resources are free or can be found if you're resourceful. Use your best judgment.
 * **Isn't this just a bunch of other learning resources strung together?** Yes.
 * **What about Frontend?** Google the The Odin Project
 * **Is the mathematics optional?** No. *(Maths is foundational, I thought I could skip it. But the deeper I got in the low levels the more I needed solid mathematics. That being said I don't control you.).*
