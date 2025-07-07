@@ -265,8 +265,9 @@ Throughout the curriculum, maintain a portfolio demonstrating:
 A loose idea of capabilities after each course:
 - **Course 1**: Write and debug C programs, understand basic computer architecture
 - **Course 2**: Understand operating system internals, work with databases, solve linear algebra problems
-- **Course 3**: Implement network protocols, understand cryptographic principles, write mathematical proofs
-- **Course 4**: Analyze algorithm complexity, design system architectures, optimize low-level code
+- **Course 3**: Create full stack web applications, insight into the frameworks behind the web
+- **Course 4**: Implement network protocols, understand cryptographic principles, write mathematical proofs
+- **Course 5**: Analyze algorithm complexity, design system architectures, optimize low-level code
 
 ### Mastery Checks
 Can you do these things?
